@@ -1,0 +1,130 @@
+Top 10 most common 1 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                                                             and 	 6424	 3193	 9617
+ 2:                                                             the 	 5056	 3974	 9030
+ 3:                                                               a 	 3248	 1954	 5202
+ 4:                                                              to 	 3013	 1805	 4818
+ 5:                                                               i 	 3168	  784	 3952
+ 6:                                                              it 	 2297	 1166	 3463
+ 7:                                                              of 	 1777	 1587	 3364
+ 8:                                                             was 	 2065	 1170	 3235
+ 9:                                                              he 	 1674	 1200	 2874
+10:                                                              in 	 1510	 1012	 2522
+
+Top 10 most common 2 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                                                          in the 	  454	  323	  777
+ 2:                                                          of the 	  364	  386	  750
+ 3:                                                          it was 	  367	  184	  551
+ 4:                                                         and the 	  326	  188	  514
+ 5:                                                          to the 	  249	  183	  432
+ 6:                                                        and then 	  249	  129	  378
+ 7:                                                          he was 	  202	  148	  350
+ 8:                                                           was a 	  223	  118	  341
+ 9:                                                          on the 	  231	   90	  321
+10:                                                           i was 	  287	   31	  318
+
+Top 10 most common 3 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                                                       by and by 	   85	   32	  117
+ 2:                                            project gutenberg tm 	   56	   56	  112
+ 3:                                                     there was a 	   50	   44	   94
+ 4:                                                      out of the 	   62	   22	   84
+ 5:                                                        it was a 	   50	   20	   70
+ 6:                                                    was going to 	   53	   11	   64
+ 7:                                                    all the time 	   48	   15	   63
+ 8:                                           the project gutenberg 	   31	   31	   62
+ 9:                                                     the old man 	   42	    8	   50
+10:                                                     and then he 	   36	    9	   45
+
+Top 10 most common 4 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                                 project gutenberg tm electronic 	   18	   18	   36
+ 2:                                               the middle of the 	   22	    7	   29
+ 3:                                                   and by and by 	   24	    4	   28
+ 4:                                        the project gutenberg tm 	   13	   13	   26
+ 5:                              project gutenberg literary archive 	   13	   13	   26
+ 6:                           gutenberg literary archive foundation 	   13	   13	   26
+ 7:                                  the project gutenberg literary 	   13	   13	   26
+ 8:                                   gutenberg tm electronic works 	   12	   12	   24
+ 9:                                                i says to myself 	   21	    1	   22
+10:                                                     a kind of a 	   14	    4	   18
+
+Top 10 most common 5 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                   project gutenberg literary archive foundation 	   13	   13	   26
+ 2:                          the project gutenberg literary archive 	   13	   13	   26
+ 3:                           project gutenberg tm electronic works 	   12	   12	   24
+ 4:                                     the terms of this agreement 	    7	    7	   14
+ 5:                            project gutenberg tm electronic work 	    6	    6	   12
+ 6:                               full project gutenberg tm license 	    6	    6	   12
+ 7:                               to the project gutenberg literary 	    6	    6	   12
+ 8:                                            in the middle of the 	    9	    2	   11
+ 9:                                         the middle of the river 	    9	    1	   10
+10:                                     of the project gutenberg tm 	    5	    5	   10
+
+Top 10 most common 6 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:               the project gutenberg literary archive foundation 	   13	   13	   26
+ 2:                       to the project gutenberg literary archive 	    6	    6	   12
+ 3:                           the full project gutenberg tm license 	    5	    5	   10
+ 4:                        of project gutenberg tm electronic works 	    4	    4	    8
+ 5:                              the owner of the project gutenberg 	    3	    3	    6
+ 6:                               owner of the project gutenberg tm 	    3	    3	    6
+ 7:                          a project gutenberg tm electronic work 	    3	    3	    6
+ 8:                           of the project gutenberg tm trademark 	    3	    3	    6
+ 9:                     donations to the project gutenberg literary 	    3	    3	    6
+10:               project gutenberg literary archive foundation the 	    2	    3	    5
+
+Top 10 most common 7 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:            to the project gutenberg literary archive foundation 	    6	    6	   12
+ 2:                     owner of the project gutenberg tm trademark 	    3	    3	    6
+ 3:             donations to the project gutenberg literary archive 	    3	    3	    6
+ 4:                           the owner of the project gutenberg tm 	    3	    3	    6
+ 5:           the project gutenberg literary archive foundation the 	    2	    3	    5
+ 6:                                                  1 e 8 or 1 e 9 	    2	    2	    4
+ 7:                               is for the use of anyone anywhere 	    2	    2	    4
+ 8:                   the project gutenberg tm mission of promoting 	    2	    2	    4
+ 9:                                    or re use it under the terms 	    2	    2	    4
+10:                                     away or re use it under the 	    2	    2	    4
+
+Top 10 most common 8 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:                 the owner of the project gutenberg tm trademark 	    3	    3	    6
+ 2:  donations to the project gutenberg literary archive foundation 	    3	    3	    6
+ 3:                                  may copy it give it away or re 	    2	    2	    4
+ 4:                                  copy it give it away or re use 	    2	    2	    4
+ 5:             of the project gutenberg license included with this 	    2	    2	    4
+ 6:               almost no restrictions whatsoever you may copy it 	    2	    2	    4
+ 7:                   license included with this ebook or online at 	    2	    2	    4
+ 8:                      anyone anywhere at no cost and with almost 	    2	    2	    4
+ 9:                                  it away or re use it under the 	    2	    2	    4
+10:                       in the public domain in the united states 	    2	    2	    4
+
+Top 10 most common 9 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:           at no cost and with almost no restrictions whatsoever 	    2	    2	    4
+ 2:       terms of the project gutenberg license included with this 	    2	    2	    4
+ 3:                             or re use it under the terms of the 	    2	    2	    4
+ 4:                             give it away or re use it under the 	    2	    2	    4
+ 5:                  with this ebook or online at www gutenberg net 	    2	    2	    4
+ 6:                       for the use of anyone anywhere at no cost 	    2	    2	    4
+ 7:              no restrictions whatsoever you may copy it give it 	    2	    2	    4
+ 8:          with almost no restrictions whatsoever you may copy it 	    2	    2	    4
+ 9:                              you may copy it give it away or re 	    2	    2	    4
+10:         and with almost no restrictions whatsoever you may copy 	    2	    2	    4
+
+Top 10 most common 10 word phrases:
+ #:                                                        Phrase:		T1Frq	T2Frq	TolFq
+ 1:      anyone anywhere at no cost and with almost no restrictions 	    2	    2	    4
+ 2:         no restrictions whatsoever you may copy it give it away 	    2	    2	    4
+ 3:     license included with this ebook or online at www gutenberg 	    2	    2	    4
+ 4:       almost no restrictions whatsoever you may copy it give it 	    2	    2	    4
+ 5:                    is for the use of anyone anywhere at no cost 	    2	    2	    4
+ 6:                        away or re use it under the terms of the 	    2	    2	    4
+ 7:       at no cost and with almost no restrictions whatsoever you 	    2	    2	    4
+ 8:         included with this ebook or online at www gutenberg net 	    2	    2	    4
+ 9:                       give it away or re use it under the terms 	    2	    2	    4
+10:                   whatsoever you may copy it give it away or re 	    2	    2	    4
+
